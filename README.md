@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 19,2018)
 
 ### Student Name:  
-(First and Last Name)
+(Benjamen Johnson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Add to the given code to enable the right click and left click buttons on a photp gallery, while also adding the ability to show more photos)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://boj1717.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to create a new element node using the createElement() method. 
+2. How to attach a newly created node to the DOM tree within a document. 
+3. How to clone a node to make creating and editing a new node easier. 
 
